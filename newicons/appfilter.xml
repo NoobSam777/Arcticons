@@ -1,5 +1,8 @@
 <resources>
 
+	<!-- +SBT -->
+	<item component="ComponentInfo{br.com.sbt.mais/tv.accedo.elevate.app.ElevateActivity}" drawable="sbt"/>
+
 	<!-- #DRIVE -->
 	<item component="ComponentInfo{com.pixelperfectdude.htdrive/com.unity3d.player.UnityPlayerActivity}" drawable="drive"/>
 	<item component="ComponentInfo{com.pixelperfectdude.htdrive/com.releasedata.ReleaseDataActivity.SplashActivityKing}" drawable="drive"/>
