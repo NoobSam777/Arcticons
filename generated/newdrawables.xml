@@ -2,4 +2,5 @@
 <resources>
 	<version>1</version>
 	<category title="New" />
+	<item drawable="sbt" />
 </resources>
